@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 0.75rem;
+    width: 330px;
+    height: 88px;
+    border-radius: 16px;
+    border: 1px solid #FFFFFF;
+    padding: 1rem 1.5rem;
+}
+
+.card h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.125rem;
+    color: #FAFAFA;
+}
+
+.card_info {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.card_info p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: #8D8686;
+}

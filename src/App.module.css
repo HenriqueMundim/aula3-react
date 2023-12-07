@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1E1E1E;
+}
+
+.conteiner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 3rem;
+  max-width: 1120px;
+  min-height: 282px;
+  border-radius: 1rem;
+  border: solid 1px #FFFFFF;
+}
